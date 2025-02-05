@@ -1,20 +1,20 @@
-Hello! I'm a second-year PhD student at Princeton, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm interested in music and machine learning. Some tools I commonly use include JAX and [Faust](https://faust.grame.fr/).
+Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm interested in music and machine learning. Some tools I commonly use include JAX and [Faust](https://faust.grame.fr/).
 
 ### Links:
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=CtTWBrMAAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/doitrealtime/)
 * [YouTube](https://www.youtube.com/davidbraun)
 * [Instagram](https://www.instagram.com/david_braun)
-* [Portfolio (Art)](https://dirt.design/portfolio/)
 * [Vimeo](https://vimeo.com/davidbraun)
-* [LinkedIn](https://www.linkedin.com/in/doitrealtime/)
+* [Portfolio (Art)](https://dirt.design/portfolio/)
 
 ### JAX Projects
-* [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec in JAX
+* [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
 * [audiotree](https://github.com/DBraun/audiotree): Data loading and augmentations
 * [DX7-JAX](https://github.com/DBraun/DX7-JAX): Yamaha DX7 Synthesizer in JAX via Faust
 
 ### Audio Projects
-* [DawDreamer](https://github.com/DBraun/DawDreamer)
+* [DawDreamer](https://github.com/DBraun/DawDreamer) (includes several [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX) projects)
 * [Vita](https://github.com/DBraun/Vita): Python bindings to the Vital Synthesizer
 * [AbletonParsing](https://github.com/DBraun/AbletonParsing)
 
@@ -33,6 +33,8 @@ Hello! I'm a second-year PhD student at Princeton, advised by Professor [Adam Fi
 
 ### Faust Projects
 * [Faust-Tutorial](https://github.com/DBraun/Faust-Tutorial)
+* [TD-Faust](https://github.com/DBraun/TD-Faust)
+* [faustlibraries](https://github.com/search?q=repo%3Agrame-cncm%2Ffaustlibraries%20braun&type=code) (I contribute to this)
 
 ### Graphics
 * [tactile-python](https://github.com/DBraun/tactile-python)
