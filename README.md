@@ -1,4 +1,4 @@
-Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm interested in music and machine learning. Some tools I commonly use include JAX and [Faust](https://faust.grame.fr/).
+Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-driven musical creativity while staying grounded in interpretable instruments, effects, and processor graphs constructed with [Faust](https://faust.grame.fr/). I often use JAX.
 
 #### JAX Projects
 * [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
