@@ -1,4 +1,4 @@
-Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-driven musical creativity while staying grounded in interpretable instruments, effects, and processor graphs constructed with [Faust](https://faust.grame.fr/). I often use JAX.
+Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-driven musical creativity while staying grounded in interpretable instruments, effects, and audio processor graphs constructed with [Faust](https://faust.grame.fr/). I often use JAX and wrote the ["backend"](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX) which converts any Faust code into JAX for scalable optimization.
 
 #### JAX Projects
 * [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
