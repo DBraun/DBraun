@@ -1,14 +1,15 @@
-Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-driven musical creativity while staying grounded in interpretable instruments, effects, and audio processor graphs constructed with [Faust](https://faust.grame.fr/). I often use JAX and wrote the ["backend"](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX) which converts any Faust code into JAX for scalable optimization.
+Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-driven musical creativity while staying grounded in interpretable instruments, effects, and audio processor graphs constructed with [Faust](https://faust.grame.fr/).
 
 #### JAX Projects
+* [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX): Convert any Faust code into JAX. Then optimize with SGD, evolutionary algos + more!
 * [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
-* [audiotree](https://github.com/DBraun/audiotree): Data loading and augmentations
-* [DX7-JAX](https://github.com/DBraun/DX7-JAX): Yamaha DX7 Synthesizer in JAX via Faust
+* [audiotree](https://dirt.design/audiotree): Data loading and augmentations
+* [DX7-JAX](https://github.com/DBraun/DX7-JAX): Yamaha DX7 🎹 in JAX via Faust
 
 #### Audio Projects
-* [DawDreamer](https://github.com/DBraun/DawDreamer) (includes several [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX) projects)
+* [DawDreamer](https://github.com/DBraun/DawDreamer): Control VSTs, Faust processors and more via Python
 * [Vita](https://github.com/DBraun/Vita): Python bindings to the Vital Synthesizer
-* [AbletonParsing](https://github.com/DBraun/AbletonParsing): Parse Ableton warp markers (.asd) files and do beatmatching
+* [AbletonParsing](https://github.com/DBraun/AbletonParsing): Parse Ableton warp markers (.asd) files and do beatmatching 🥁
 
 #### Faust Projects
 * [Faust-Tutorial](https://github.com/DBraun/Faust-Tutorial)
