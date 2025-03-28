@@ -4,6 +4,7 @@ Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Ad
 * [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX): Convert any Faust code into JAX. Then optimize with SGD, evolutionary algos + more!
 * [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
 * [audiotree](https://dirt.design/audiotree): Data loading and augmentations
+* [librosax](https://github.com/DBraun/librosax): Librosa in JAX
 * [DX7-JAX](https://github.com/DBraun/DX7-JAX): Yamaha DX7 🎹 in JAX via Faust
 
 #### Audio Projects
