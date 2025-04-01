@@ -5,6 +5,7 @@ Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Ad
 * [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
 * [audiotree](https://dirt.design/audiotree): Data loading and augmentations
 * [librosax](https://github.com/DBraun/librosax): Librosa in JAX
+* [remixavier-jax](https://github.com/DBraun/remixavier-jax): Subtract vocals from full mixtures to get instrumentals, etc.
 * [DX7-JAX](https://github.com/DBraun/DX7-JAX): Yamaha DX7 🎹 in JAX via Faust
 
 #### Audio Projects
