@@ -10,7 +10,7 @@ Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Ad
 
 #### Audio Projects
 * [DawDreamer](https://github.com/DBraun/DawDreamer): Control VSTs, Faust processors and more via Python
-* [Vita](https://github.com/DBraun/Vita): Python bindings to the Vital Synthesizer
+* [Vita](https://github.com/DBraun/Vita): Python bindings to the Vital Synthesizer 🎹
 * [AbletonParsing](https://github.com/DBraun/AbletonParsing): Parse Ableton warp markers (.asd) files and do beatmatching 🥁
 
 #### Faust Projects
@@ -36,6 +36,7 @@ Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Ad
 * [SmoothstepCHOP](https://github.com/DBraun/SmoothstepCHOP)
 * [MatrixCHOP](https://github.com/DBraun/MatrixCHOP)
 * [RealSenseTOP](https://github.com/DBraun/RealSenseTOP)
+* [fastText-for-language-learners](https://github.com/DBraun/fastText-for-language-learners): Optimal order of words to learn in a new language
 
 #### Graphics
 * [tactile-python](https://github.com/DBraun/tactile-python)
