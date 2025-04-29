@@ -18,6 +18,7 @@ Hello! I'm a second-year PhD student at Princeton 🐯, advised by Professor [Ad
 * [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX)
 * [TD-Faust](https://github.com/DBraun/TD-Faust)
 * [faustlibraries](https://github.com/search?q=repo%3Agrame-cncm%2Ffaustlibraries%20braun&type=code) (I contribute to this)
+* [faust2hothouse](https://github.com/grame-cncm/faust/tree/master-dev/architecture/hothouse) Faust on a "DIY" guitar pedal 🎸🎛️
 
 #### ChucK Projects
 * [FaucK](https://github.com/ccrma/fauck) (I'm the maintainer)
