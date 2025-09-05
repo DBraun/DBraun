@@ -7,6 +7,7 @@ Hello! I'm a third-year PhD student at Princeton 🐯, advised by Professor [Ada
 * [librosax](https://github.com/DBraun/librosax): Librosa in JAX
 * [remixavier-jax](https://github.com/DBraun/remixavier-jax): Subtract vocals from full mixtures to get instrumentals, etc.
 * [DX7-JAX](https://github.com/DBraun/DX7-JAX): Yamaha DX7 🎹 in JAX via Faust
+* [JraphX](https://dirt.design/jraphx/): Graph Neural Networks in Flax/NNX
 
 #### Audio Projects
 * [DawDreamer](https://github.com/DBraun/DawDreamer): Control VSTs, Faust processors and more via Python
