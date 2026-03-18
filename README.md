@@ -12,6 +12,7 @@ Hello! I'm a third-year PhD student at Princeton 🐯, advised by Professor [Ada
 #### Audio Projects
 * [DawDreamer](https://github.com/DBraun/DawDreamer): Control VSTs, Faust processors and more via Python
 * [Vita](https://github.com/DBraun/Vita): Python bindings to the Vital Synthesizer 🎹
+* [dexed-py](https://github.com/DBraun/dexed-py): Python bindings to the Dexed Synthesizer 🎹
 * [AbletonParsing](https://github.com/DBraun/AbletonParsing): Parse Ableton warp markers (.asd) files and do beatmatching 🥁
 
 #### Faust Projects
