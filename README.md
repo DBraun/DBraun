@@ -1,4 +1,4 @@
-Hello! I'm a third-year PhD student at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-assisted musical creativity while staying grounded in interpretable instruments, effects, and audio processor graphs constructed with [Faust](https://faust.grame.fr/).
+Hello! I'm a PhD candidate in computer science at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-assisted musical creativity while staying grounded in interpretable instruments, effects, and audio processor graphs constructed with [Faust](https://faust.grame.fr/).
 
 #### JAX Projects
 * [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX): Convert any Faust code into JAX. Then optimize with SGD, evolutionary algos + more!
@@ -44,6 +44,7 @@ Hello! I'm a third-year PhD student at Princeton 🐯, advised by Professor [Ada
 #### Graphics
 * [tactile-python](https://github.com/DBraun/tactile-python)
 * [turning-function](https://github.com/DBraun/turning-function)
+* [Escher Coloring](https://github.com/DBraun/EscherColoring)
 
 #### Links:
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=CtTWBrMAAAAJ)
