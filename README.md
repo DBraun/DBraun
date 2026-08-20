@@ -1,5 +1,9 @@
 Hello! I'm a PhD candidate in computer science at Princeton 🐯, advised by Professor [Adam Finkelstein](https://www.cs.princeton.edu/~af/). I'm researching ML-assisted musical creativity while staying grounded in interpretable instruments, effects, and audio processor graphs constructed with [Faust](https://faust.grame.fr/).
 
+#### Conference Papers
+* [FM Synthesizer Audio-Parameter Shared Embeddings](https://github.com/DBraun/SynAPSE) (DAFx 2026)
+* PEACE: Joint Embeddings of DSP Effects Code and Audio (ISMIR 2026)
+
 #### JAX Projects
 * [Faust-to-JAX](https://github.com/DBraun/DawDreamer/tree/main/examples/Faust_to_JAX): Convert any Faust code into JAX. Then optimize with SGD, evolutionary algos + more!
 * [DAC-JAX](https://github.com/DBraun/DAC-JAX): Descript Audio Codec and EnCodec, training and pre-trained models
